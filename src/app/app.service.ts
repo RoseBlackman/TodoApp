@@ -7,7 +7,4 @@ export class AppService {
 
   constructor() { };
 
-  footerEnabled(showFooter: boolean): boolean {
-    return true;
-  }
 }
