@@ -7,9 +7,8 @@ import { Component, OnInit, Output, EventEmitter, Input } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
-  constructor() { };
+  constructor() { }
 
-  ngOnInit() {
-  };
+  ngOnInit() { }
 
 }

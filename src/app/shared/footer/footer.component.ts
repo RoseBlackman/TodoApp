@@ -13,8 +13,8 @@ export class FooterComponent implements OnInit {
 
   @Input() footerText: string;
 
-  constructor() { };
+  constructor() { }
 
-  ngOnInit(): void { };
+  ngOnInit(): void { }
 
 }
